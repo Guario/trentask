@@ -1,0 +1,133 @@
+#map {
+    width: 400px;
+    height: 400px;
+    background-color: #C0C0C0;
+    float: left;
+    margin-bottom: 15px;
+   margin: 10px;
+    padding: 10px 0 10px 0;
+}
+
+.imeg {
+    float: left;
+   
+}
+
+.container-fluid {
+    background-color: white;
+  
+}
+
+
+.logo {
+    float: left;
+
+}
+
+.logo-name {
+    float: left;
+    padding-top: 10px;
+}
+
+.adress {
+    background-color: white;
+ 
+    margin-bottom: 10px;
+    clear: both;
+    
+}
+
+.header {
+    background-color: white;
+}
+
+.container-fluid {
+    background-color: white;
+}
+
+.detal {
+    clear: both;
+    border-top: 1px solid #C0C0C0;
+    padding-bottom: 10px;
+    
+
+}
+
+.detal table {
+    margin: auto;
+    border-spacing: 7px 11px;
+}
+
+.detal h3 {
+
+    text-align: center;
+}
+
+.info {
+    border: 1px solid #C0C0C0;
+    border-radius: 15px;
+    background: #fafbfd;
+}
+.fon{
+   position: relative;
+}
+.fon img {
+    width: 100%;
+}
+
+.descrip{
+    padding: 10px 25px 10px 25px;
+    margin-top: 10px;
+    border-top: 1px solid #C0C0C0;
+    background: white;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius:15px;
+}
+.content{
+    
+}
+
+.table{
+    border: 1px solid #C0C0C0;
+}
+
+.navi{
+   
+  width: auto;
+  height: auto;
+  overflow-x: auto;
+  overflow-y: hidden;
+     
+   
+}
+.navi img{
+    float: left;
+    margin: 2px;
+    padding-left: 14%;
+    margin: 10px;
+}
+.reco{
+    float: right;
+    padding-top: 10px;
+}
+.avai{
+    margin-top: 20px;
+}
+.avaih4{
+    float: left;
+    padding-top: 5px;
+    
+}
+.table th{
+    background: #fafbfd;
+}
+.dtab table{
+    border-spacing: 20px 11px;
+}
+.dtab td{
+    padding-right: 200px;
+}
+.dtab th{
+    padding-left: 70px;
+} 
+   
